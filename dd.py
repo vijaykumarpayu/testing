@@ -1,12 +1,13 @@
 result = function_that_takes_arguments(
-    "a",
-    "b",
-    "c",
-    "d",
-    "e",
-    "f",
-    "g",
+    "a", "b",    "c",    "d",    "e",    "f","g",
 )
+
+
+
+
+
+
+
 
 
 print("hellof")
