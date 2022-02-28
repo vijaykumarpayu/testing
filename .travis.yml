@@ -1,5 +1,4 @@
-language: python
-
-before_script:
-    # run black to check if some files would need reformatting
-    - black --check .
+language: ruby
+rvm:
+ - 2.2
+ - jruby
