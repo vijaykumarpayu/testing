@@ -1,0 +1,5 @@
+language: python
+
+before_script:
+    # run black to check if some files would need reformatting
+    - black --check .
