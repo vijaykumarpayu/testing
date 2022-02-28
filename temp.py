@@ -5,6 +5,11 @@ result = function_that_takes_arguments(
     "d",
     "e",
     "f",
+
+
+
+
+
     "g",
 )
 
