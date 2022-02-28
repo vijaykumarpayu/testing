@@ -5,16 +5,8 @@ result = function_that_takes_arguments(
     "d",
     "e",
     "f",
-
-
-
-
-"ff",
-
-
-"ffg",
-
-
+    "ff",
+    "ffg",
     "g",
 )
 
