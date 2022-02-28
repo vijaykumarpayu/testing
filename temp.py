@@ -9,6 +9,11 @@ result = function_that_takes_arguments(
 
 
 
+"ff",
+
+
+"ffg",
+
 
     "g",
 )
