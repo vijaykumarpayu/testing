@@ -3,8 +3,7 @@ repos:
     rev: 22.1.0
     hooks:
       - id: black
-        line-length: 100
-        exclude: "dd.py"
+        exclude: ""
         # It is recommended to specify the latest version of Python
         # supported by your project here, or alternatively use
         # pre-commit's default_language_version, see
