@@ -1,0 +1,9 @@
+[tool.black]
+line-length = 120
+#include='/sample/'
+#exclude=''
+#check=true
+verbose=true
+include='/sample/'
+#exclude='/sample/dd.py|/sample/test.py'
+force-exclude='/sample/dd.py|/sample/test.py'

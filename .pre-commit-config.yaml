@@ -3,7 +3,10 @@ repos:
     rev: 22.1.0
     hooks:
       - id: black
-        args: [--check=true]
+        args: [--line-length=80,--check,--diff,--color]
+#        exclude: "temp.py"
+        # It is recommended to specify gitthe latest version of Python
+        # It is recommended to specify the latest version of Python
         # It is recommended to specify the latest version of Python
         # supported by your project here, or alternatively use
         # pre-commit's default_language_version, see

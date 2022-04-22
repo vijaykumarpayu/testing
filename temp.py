@@ -1,14 +1,12 @@
-result = function_that_takes_arguments(
-    "a",
-    "b",
-    "c",
-    "d",
-    "e",
-    "f",
-    "ff",
-    "ffg",
-    "g",
-)
+print("hello world"           )
 
 
-print("helloddd")
+
+
+
+print("hee"       )
+def hello(a, b):
+    print(a, b             )
+
+
+print("hello")
